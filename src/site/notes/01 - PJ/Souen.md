@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-pj/souen/","tags":["pj"],"dg-note-properties":{"tags":["pj"],"aliases":["Souen"],"icon":"person","publish":"true"}}
+{"dg-publish":true,"permalink":"/01-pj/souen/","tags":["pj"],"dg-note-properties":{"tags":["pj"],"aliases":["Souen"],"icon":"souen"}}
 ---
 
 # Souen
