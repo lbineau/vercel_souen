@@ -10,41 +10,39 @@
 > 
 > ---
 > ## Caractéristiques
-| Caractéristique     | Valeur     |
-| :-------- | :---------- |
-| **Force**     | **14 (70**)     |
-| **Dext**  | **17 (85)** |
-| **Endu**  | **15 (75)** |
-| **Intel** | **8 (40)**  |
-| **Cha**   | **6 (30)**  |
-| **PV**    | **12 / 15** |
-> ---
+> | Caractéristique     | Valeur     |
+> | :-------- | :---------- |
+> | **Force**     | **14 (70**)     |
+> | **Dext**  | **17 (85)** |
+> | **Endu**  | **15 (75)** |
+> | **Intel** | **8 (40)**  |
+> | **Cha**   | **6 (30)**  |
+> | **PV**    | **12 / 15** |
 > ## Compétences
-> 
-| Compétence | Valeur |
-| :---- | :---- |
-| Artisanat | 51 |
-| Combat Rapproché | 83 |
-| Combat à distance | 51 |
-| Connaissance de la nature | 50 |
-| Connaissance des secrets | 29 |
-| Courir sauter | 82 |
-| Discrétion | 72 |
-| Droit | 28 |
-| Esquiver | 76 |
-| Intimider | 41 |
-| Lire/ecrire (Dessin) | 37 (+11) |
-| Mentir / convaincre | 29 |
-| Perception | 39 |
-| Piloter | 55 |
-| Psychologie | 46 |
-| Réflexes | 79 |
-| Serrures | 54 |
-| Soigner | 18 (nul) |
-| Survie | 56 |
-| Voler (contre nature) | 40 (pas bien) |
-| Affinité/parler avec les animaux | 50 |
-| Vengeance | 64 |
+> | Compétence | Valeur |
+> | :---- | :---- |
+> | Artisanat | 51 |
+> | Combat Rapproché | 83 |
+> | Combat à distance | 51 |
+> | Connaissance de la nature | 50 |
+> | Connaissance des secrets | 29 |
+> | Courir sauter | 82 |
+> | Discrétion | 72 |
+> | Droit | 28 |
+> | Esquiver | 76 |
+> | Intimider | 41 |
+> | Lire/ecrire (Dessin) | 37 (+11) |
+> | Mentir / convaincre | 29 |
+> | Perception | 39 |
+> | Piloter | 55 |
+> | Psychologie | 46 |
+> | Réflexes | 79 |
+> | Serrures | 54 |
+> | Soigner | 18 (nul) |
+> | Survie | 56 |
+> | Voler (contre nature) | 40 (pas bien) |
+> | Affinité/parler avec les animaux | 50 |
+> | Vengeance | 64 |
 
 ## Possessions
 Voir [[01 - PJ/Possessions de Souen\|Possessions de Souen]]
