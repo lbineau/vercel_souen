@@ -4,7 +4,7 @@
 
 # ARIA JDR — Campagne du groupe à 4
 
-![cover.jpg](/img/user/z_medias/cover.jpg)
+![cover.webp](/img/user/z_medias/cover.webp)
 
 ## Personnage joueur
 - [[01 - PJ/Souen\|Souen]]
@@ -18,8 +18,8 @@
 - [[08 - Quêtes/Quêtes\|Quêtes]]
 
 ## Lore
-- [[04 - Lore/Panthéon\|Panthéon]]
-- [[04 - Lore/Peuples\|Peuples]]
+- Panthéon : voir dossier `04 - Lore/Panthéon/`
+- Peuples : voir dossier `04 - Lore/Peuples/`
 - Organisations : voir dossier `04 - Lore/Organisations/`
 
 ## Lieux
@@ -30,7 +30,7 @@
 - [[05 - Lieux/Naporia\|Naporia]]
 
 ## Objets
-- [[06 - Objets/Armes\|Armes]]
+- Armes : voir dossier `06 - Objets/Armes/`
 - [[01 - PJ/Possessions de Souen\|Possessions de Souen]]
 
 ## PNJ

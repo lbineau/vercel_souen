@@ -6,7 +6,7 @@
 
 > [!infobox]
 > # Souen
-> ![pp-souen.png\|cover portrait](/img/user/z_medias/pp-souen.png)
+> ![pp-souen.webp\|cover portrait](/img/user/z_medias/pp-souen.webp)
 > 
 > ---
 > ## **Caractéristiques**
@@ -86,6 +86,8 @@ Décision prise: part pour Aqabah jour de son anniversaire. Maître, connaissant
 
 ## Psychologie
 Vécu toute vie en monastère, parle langue commune depuis peu — pas très à l'aise pour tisser liens. Malgré ça, grâce enseignements de son mentor, voit toujours bon côté nature humaine. Résolument optimiste, pas naïf pour autant. Se sert généralement poings et arme de prédilection (bâton) dans optique maîtriser danger, pas tuer.
+
+Il commence à apprécier un peu trop la *potion de Mérilia*.
 
 ## Idées
 - Apprendre les runes → ceinture a une rune qui modifie propriétés → parler à des PNJ de ça

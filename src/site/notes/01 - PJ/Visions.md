@@ -19,7 +19,7 @@ En essayant de me souvenir d'[[03 - PNJ/Ibolya\|Ibolya]] : je me revois à ses c
 En cherchant à ouvrir la fente de la statue : nouvelle vision, un mur de pierre du quartier des manoirs, un jardin, un arbre, un banc de pierre.
 
 ## [[07 - Séances/2021-12-03\|2021-12-03]]
-Pendant une méditation dédiée à Dagan (dieu de la mer vénéré par l'Osmanlie) : vision d'une personne couverte de grigris, près de la voile de son navire, qui dépose une petite pièce au pied d'une statue.
+Pendant une méditation dédiée à [[04 - Lore/Panthéon/Dieu Dagan\|Dagan]] (dieu de la mer vénéré par l'Osmanlie) : vision d'une personne couverte de grigris, près de la voile de son navire, qui dépose une petite pièce au pied d'une statue.
 
 ## [[07 - Séances/2022-01-22\|22/01/2022]]
 Rêve de pêche : un poisson énorme, gros comme une baleine.
@@ -33,7 +33,7 @@ En forçant la porte du manoir, nouvelle vision (perte de 3 PV) : deux êtres c�
 En touchant le sang près de la broche trouvée dans le jardin de la résidence Malatesta : vision très floue, brume verdâtre. Malaise. (Yakimo empoisonné ? Lien avec la broche ?)
 
 ## [[07 - Séances/2026-05-01\|01/05/2026]]
-En touchant la poignée du manoir familial : lueurs vertes autour d'un Tulpa (vision gardée secrète, révélée seulement en partie à Olympia).
+En touchant la poignée du manoir familial : lueurs vertes autour d'un [[04 - Lore/Créatures/Tulpa\|Tulpa]] (vision gardée secrète, révélée seulement en partie à Olympia).
 
 ## [[07 - Séances/2026-08-21\|21/08/2026]]
-En repensant à l'enfant Tulpa : cliquetis régulier devenant martèlement de marteau sur enclume, forge d'une lame. Je vois la statue des Santa Sophia resplendissante, une brume verte se lève, des formes lycanthropiques tuent femmes et enfants. Du sang coule des poignets de la statue. Le martèlement cesse, la lame nouvellement forgée est trempée dans ce sang. Une main s'en saisit, au premier coup d'épée la brume disparaît. Cette lame est celle des Santa Sophia que je possède — malaise : forgée avec le sang d'innocents.
+En repensant à l'enfant [[04 - Lore/Créatures/Tulpa\|Tulpa]] : cliquetis régulier devenant martèlement de marteau sur enclume, forge d'une lame. Je vois la statue des Santa Sophia resplendissante, une brume verte se lève, des formes lycanthropiques tuent femmes et enfants. Du sang coule des poignets de la statue. Le martèlement cesse, la lame nouvellement forgée est trempée dans ce sang. Une main s'en saisit, au premier coup d'épée la brume disparaît. Cette lame est celle des Santa Sophia que je possède — malaise : forgée avec le sang d'innocents.
