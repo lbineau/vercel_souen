@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-pj/visions/","tags":["pj","souen"],"created":"2026-09-12T00:00:35.736+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["pj","souen"],"icon":"vision"}}
+{"dg-publish":true,"permalink":"/01-pj/visions/","tags":["pj","souen"],"created":"2026-09-13T00:49:38.470+02:00","updated":"2026-09-13T00:49:38.470+02:00","dg-note-properties":{"tags":["pj","souen"],"icon":"vision"}}
 ---
 
 # Visions de Souen
@@ -30,7 +30,7 @@ Devant le manoir familial incendié : vision de mes parents me tenant dans leurs
 En forçant la porte du manoir, nouvelle vision (perte de 3 PV) : deux êtres célestes. Le premier, tunique blanche, capuche et masque, devant lui deux hommes esclaves marqués d'une croix taillée dans la chair de leurs mains. Derrière moi, l'autre être, avec un homme tenant les atouts de la sagesse et une femme guerrière dont le pommeau d'épée porte le signe des protecteurs. L'encapuchonné me parle : « Descendant des protecteurs, je pensais m'être débarrassé de ton sang, je peux pas te maudire mais je sais que tu es là. »
 
 ## [[07 - Séances/2024-11-29\|2024-11-29]]
-En touchant le sang près de la broche trouvée dans le jardin de la résidence Malatesta : vision très floue, brume verdâtre. Malaise. (Yakimo empoisonné ? Lien avec la broche ?)
+En touchant le sang près de la broche trouvée dans le jardin de la [[05 - Lieux/Résidence Malatesta\|Résidence Malatesta]] : vision très floue, brume verdâtre. Malaise. (Yakimo empoisonné ? Lien avec la broche ?)
 
 ## [[07 - Séances/2026-05-01\|2026-05-01]]
 En touchant la poignée du manoir familial : lueurs vertes autour d'un [[04 - Lore/Créatures/Tulpa\|Tulpa]] (vision gardée secrète, révélée seulement en partie à Olympia).

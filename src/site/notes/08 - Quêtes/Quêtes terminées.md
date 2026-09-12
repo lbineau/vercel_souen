@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-quetes/quetes-terminees/","created":"2026-09-12T00:00:40.893+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/08-quetes/quetes-terminees/","tags":["quetes"],"created":"2026-09-12T00:00:40.893+02:00","updated":"2026-09-12T23:45:04.369+02:00","dg-note-properties":{"tags":["quetes"]}}
 ---
 
 # Quêtes terminées

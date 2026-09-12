@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-lore/familles/primo/","tags":["lore","organisation","famille"],"created":"2026-09-08T17:36:56.127+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["lore","organisation","famille"]}}
+{"dg-publish":true,"permalink":"/04-lore/familles/primo/","tags":["lore","organisation","famille"],"created":"2026-09-08T17:36:56.127+02:00","updated":"2026-09-13T00:26:28.967+02:00","dg-note-properties":{"tags":["lore","organisation","famille"]}}
 ---
 
 # Primo (famille)

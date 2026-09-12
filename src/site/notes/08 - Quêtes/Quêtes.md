@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-quetes/quetes/","tags":["quetes"],"created":"2026-09-12T00:10:07.813+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["quetes"]}}
+{"dg-publish":true,"permalink":"/08-quetes/quetes/","tags":["quetes"],"created":"2026-09-13T00:47:45.555+02:00","updated":"2026-09-13T00:47:45.555+02:00","dg-note-properties":{"tags":["quetes"]}}
 ---
 
 # Quêtes
@@ -64,3 +64,10 @@
 - [ ] [[02 - Compagnons/Evelynn\|Evelynn]] m'a lu son livre en off je dois demander le compte rendu
 - [ ] Est-ce le même dieu que le [[04 - Lore/Panthéon/Dieu de la Magie\|Dieu de la Sagesse]]?
 - [ ] Chercher des informations dans le livre sur les 50 "*des mages de Varna*" [[07 - Séances/2023-03-10\|2023-03-10]]
+
+## Rénovation du [[05 - Lieux/Manoir Santa Sophia\|Manoir Santa Sophia]]
+- [x] Mandater [[03 - PNJ/Ibolya\|Ibolya]] pour acheter/affranchir esclaves et payer rénovation ([[07 - Séances/2023-05-11\|séance 2023-05-11]])
+- [x] Trouver maître ouvrier: [[03 - PNJ/Markus\|Markus]], 15 PO services + 100 PO matériaux (bois, pierre, clous, cordes) ([[07 - Séances/2024-10-18\|séance 2024-10-18]])
+- [ ] Récupérer matériaux, potentiellement moins cher à [[05 - Lieux/Aqabah\|Aqabah]]
+- [ ] Suivre avancement travaux
+- PNJ liés: [[03 - PNJ/Ibolya\|Ibolya]], [[03 - PNJ/Markus\|Markus]]

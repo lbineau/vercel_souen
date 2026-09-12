@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-objets/potions/","tags":["objets","potions"],"created":"2026-09-11T09:31:44.862+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["objets","potions"]}}
+{"dg-publish":true,"permalink":"/06-objets/potions/","tags":["objets","potions"],"created":"2026-09-13T00:12:24.256+02:00","updated":"2026-09-13T01:02:18.607+02:00","dg-note-properties":{"tags":["objets","potions"]}}
 ---
 
 # Potions
@@ -17,3 +17,15 @@
 
 ## Chaud lapin
 - Une potion qui diffuse des phéromones sur la cible (vivantes ou végétal il semblerait)
+
+## Garfunkel
+- Utilisée pour interroger [[03 - PNJ/Savina\|Savina]]
+- Semble provoquer des hallucinations
+- Effets?
+
+## Promenice
+- Rend les cibles molles (perte de tonus musculaire)
+- Utilisée pour neutraliser patrouille sur ponton ([[07 - Séances/2023-07-28\|séance 2023-07-28]])
+
+## Persoc
+- utilisé pour ressouder les os de [[01 - PJ/Souen\|Souen]] ([[07 - Séances/2025-05-09\|2025-05-09]])
