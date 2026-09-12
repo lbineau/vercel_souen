@@ -65,13 +65,25 @@ Voir [[01 - PJ/Visions\|Visions]]
 **Solde actuel: 1953**
 
 ## Origine / Famille
-- Fait parti de la [[04 - Lore/Organisations/Santa Sophia\|Santa Sophia]], lignée des **[[04 - Lore/Organisations/Protecteurs (lignée)\|Protecteurs]]**, chargée de défendre l'humanité contre le dieu ennemi ([[06 - Objets/Codex/Codex Occultatum\|Codex Occultatum]])
+- Fait parti de la [[04 - Lore/Familles/Santa Sophia\|Santa Sophia]], lignée des **[[04 - Lore/Organisations/Protecteurs\|Protecteurs]]**, chargée de défendre l'humanité contre le dieu ennemi ([[06 - Objets/Codex/Codex Occultatum\|Codex Occultatum]])
 - Dernier survivant connu de la lignée — parents morts dans incendie du manoir familial (quartier des manoirs, Aria)
 - Servi depuis toujours par [[03 - PNJ/Zlatsko\|Zlatsko]] et [[03 - PNJ/Ibolya\|Ibolya]]
 - Voir séance [[07 - Séances/2022-10-14\|2022-10-14]] et [[07 - Séances/2022-11-18\|2022-11-18]] pour visions et découverte du manoir
 
 ## Apparence
-Moine d'Amasya d'une vingtaine d'années. Corps d'athlète typique des personnes maîtrisant arts martiaux à mains nues et combat au bâton. Cheveux très courts, tatouages aux avant-bras. Porte chapelet autour du cou.
+Moine d'[[05 - Lieux/Amasya\|Amasya]] d'une vingtaine d'années. Corps d'athlète typique des personnes maîtrisant arts martiaux à mains nues et combat au bâton. Cheveux très courts, tatouages aux avant-bras. Porte chapelet autour du cou.
+Dans son dos, un magnifique tatouage de dragon asiatique représentant le [[04 - Lore/Panthéon/Dieu de la Magie\|Dieu de la Sagesse]] fait à [[05 - Lieux/Altabianca\|Altabianca]] en soirée au Libero
+
+## Psychologie
+Vécu toute vie en monastère, parle langue commune depuis peu — pas très à l'aise pour tisser liens. Malgré ça, grâce enseignements de son mentor, voit toujours bon côté nature humaine. Résolument optimiste, pas naïf pour autant. Se sert généralement poings et arme de prédilection (bâton) dans optique maîtriser danger, pas tuer.
+
+Il adore la nourriture d'Aria à tel point qu'il se remplit les poches dès que l'occasion se présente.
+
+Les femmes ne semblent pas vraiment l'intéresser et de nombreuses conquêtes potentielles on été laissées sur le carreau. Pourtant il semblerait avoir laissé la porte ouverte à la tenancière de l'auberge d'[[05 - Lieux/Altabianca\|Altabianca]] qui l'a peut être amadoué à force de bon repas du matin au soir.
+
+Tout porterait à ce qu'il s'engage vers la voie de la vengeance en découvrant que sa famille a été assassinée mais fort de ses enseignements de moine, et de sa résilience grâce à la méditation, il préfère généralement les combats avec une issue non létale. 
+
+Il commence à apprécier un peu trop la *[[06 - Objets/Potions#Mérilia\|Potions#Mérilia]]*.
 
 ## Histoire
 Abandonné par parents à 5 ans, recueilli dans temple de moines en [[05 - Lieux/Amasya\|Amasya]]. Se rappelle pas vraiment d'où il vient, question d'origine pas trop présente dans son esprit — tourné plutôt vers foi et enseignements arts martiaux pour combler absence.
@@ -84,17 +96,8 @@ Au fil discussions, Souen parle de son rêve retrouver bâton légendaire "RuYi"
 
 Décision prise: part pour Aqabah jour de son anniversaire. Maître, connaissant entêtement de Souen, résigné à lui souhaiter bonne chance, prie pour retour sain et sauf.
 
-## Psychologie
-Vécu toute vie en monastère, parle langue commune depuis peu — pas très à l'aise pour tisser liens. Malgré ça, grâce enseignements de son mentor, voit toujours bon côté nature humaine. Résolument optimiste, pas naïf pour autant. Se sert généralement poings et arme de prédilection (bâton) dans optique maîtriser danger, pas tuer.
-
-Il commence à apprécier un peu trop la *potion de Mérilia*.
-
 ## Idées
 - Apprendre les runes → ceinture a une rune qui modifie propriétés → parler à des PNJ de ça
+	- Tatouages sur le corps à rendre magiques grâce aux runes?
 - Pourquoi Souen n'a aucune romance ?
 - Il n'a jamais eu de mère → comment ça se traduit ?
-
-## Souvenirs
-- Aria n'est pas familière
-- Odeur de sardine au [[05 - Lieux/ARIA (ville)#Phare du prince\|Phare du prince]] à Aria
-- Statue du roi des rois à la place des nobles, un homme qui l'inspire

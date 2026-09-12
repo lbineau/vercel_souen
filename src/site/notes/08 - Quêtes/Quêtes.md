@@ -62,3 +62,5 @@
 
 ## [[04 - Lore/Panthéon/Dieu Dragon Serpent\|Dieu Dragon Serpent]]
 - [ ] [[02 - Compagnons/Evelynn\|Evelynn]] m'a lu son livre en off je dois demander le compte rendu
+- [ ] Est-ce le même dieu que le [[04 - Lore/Panthéon/Dieu de la Magie\|Dieu de la Sagesse]]?
+- [ ] Chercher des informations dans le livre sur les 50 "*des mages de Varna*" [[07 - Séances/2023-03-10\|2023-03-10]]
