@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-objets/codex/codex-naturalia/","tags":["objets","codex"],"dg-note-properties":{"tags":["objets","codex"],"aliases":["Codex Naturae"]}}
+{"dg-publish":true,"permalink":"/06-objets/codex/codex-naturalia/","tags":["objets","codex"],"created":"2026-09-08T14:58:30.014+02:00","updated":"2026-09-12T23:01:25.710+02:00","dg-note-properties":{"tags":["objets","codex"],"aliases":["Codex Naturae"]}}
 ---
 
 # Codex Naturalia
