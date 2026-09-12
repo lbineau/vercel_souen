@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/clemo-treherne/","tags":["pnj"],"dg-note-properties":{"tags":["pnj"]}}
+{"dg-publish":true,"permalink":"/03-pnj/clemo-treherne/","tags":["pnj"],"created":"2026-09-10T20:53:45.394+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["pnj"]}}
 ---
 
 # Clémo Tréherne

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/altabianca/","tags":["lieu"],"dg-note-properties":{"tags":["lieu"]}}
+{"dg-publish":true,"permalink":"/05-lieux/altabianca/","tags":["lieu"],"created":"2026-09-11T00:04:57.291+02:00","updated":"2026-09-12T23:01:25.980+02:00","dg-note-properties":{"tags":["lieu"]}}
 ---
 
 # Altabianca

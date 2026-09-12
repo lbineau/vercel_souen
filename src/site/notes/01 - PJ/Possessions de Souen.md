@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-pj/possessions-de-souen/","tags":["objets","inventaire"],"dg-note-properties":{"tags":["objets","inventaire"],"icon":"bag"}}
+{"dg-publish":true,"permalink":"/01-pj/possessions-de-souen/","tags":["objets","inventaire"],"created":"2026-09-11T23:03:08.535+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["objets","inventaire"],"icon":"bag"}}
 ---
 
 # Possessions de Souen

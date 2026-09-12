@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-lore/pantheon/dieu-de-la-magie/","tags":["dieu"],"dg-note-properties":{"aliases":["Dieu Dragon","Dieu de la Sagesse"],"tags":["dieu"]}}
+{"dg-publish":true,"permalink":"/04-lore/pantheon/dieu-de-la-magie/","tags":["dieu"],"created":"2026-09-11T22:03:48.285+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"aliases":["Dieu Dragon","Dieu de la Sagesse"],"tags":["dieu"]}}
 ---
 
 # Dieu de la Magie / Dragon / Sagesse

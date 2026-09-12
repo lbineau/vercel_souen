@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-lore/familles/skagarfala/","tags":["lore","famille"],"dg-note-properties":{"tags":["lore","famille"]}}
+{"dg-publish":true,"permalink":"/04-lore/familles/skagarfala/","tags":["lore","famille"],"created":"2026-09-12T21:45:22.577+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["lore","famille"]}}
 ---
 
 # Skagarfala (famille)

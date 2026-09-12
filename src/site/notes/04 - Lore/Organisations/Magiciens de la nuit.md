@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-lore/organisations/magiciens-de-la-nuit/","tags":["lore","organisation"],"dg-note-properties":{"tags":["lore","organisation"]}}
+{"dg-publish":true,"permalink":"/04-lore/organisations/magiciens-de-la-nuit/","tags":["lore","organisation"],"created":"2026-09-08T14:49:15.197+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["lore","organisation"]}}
 ---
 
 # Magiciens de la nuit

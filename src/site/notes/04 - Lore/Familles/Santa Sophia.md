@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-lore/familles/santa-sophia/","tags":["lore","organisation","famille"],"dg-note-properties":{"tags":["lore","organisation","famille"]}}
+{"dg-publish":true,"permalink":"/04-lore/familles/santa-sophia/","tags":["lore","organisation","famille"],"created":"2026-09-12T21:45:32.298+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["lore","organisation","famille"]}}
 ---
 
 # Santa Sophia (famille)
