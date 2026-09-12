@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/osmanlie/","tags":["lieu"],"created":"2026-09-11T22:19:54.860+02:00","updated":"2026-09-12T23:01:25.979+02:00","dg-note-properties":{"tags":["lieu"]}}
+{"dg-publish":true,"permalink":"/05-lieux/osmanlie/","tags":["lieu"],"dg-note-properties":{"tags":["lieu"]}}
 ---
 
 # Osmanlie

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/jokanda/","tags":["pnj"],"created":"2026-09-08T17:36:56.130+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["pnj"]}}
+{"dg-publish":true,"permalink":"/03-pnj/jokanda/","tags":["pnj"],"dg-note-properties":{"tags":["pnj"]}}
 ---
 
 # Jokanda

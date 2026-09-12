@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/shazam/","tags":["pnj","major"],"created":"2026-09-08T11:37:06.277+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["pnj","major"]}}
+{"dg-publish":true,"permalink":"/03-pnj/shazam/","tags":["pnj","major"],"dg-note-properties":{"tags":["pnj","major"]}}
 ---
 
 # Shazam

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-index/index/","tags":["campagne","index","gardenEntry"],"created":"2026-09-11T22:56:06.638+02:00","updated":"2026-09-12T23:01:26.055+02:00","dg-note-properties":{"tags":["campagne","index","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/00-index/index/","tags":["campagne","index","gardenEntry"],"dg-note-properties":{"tags":["campagne","index","gardenEntry"]}}
 ---
 
 # ARIA JDR — Campagne du groupe à 4

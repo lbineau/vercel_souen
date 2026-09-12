@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/ocean-des-fantomes/","tags":["lieux"],"created":"2026-09-11T10:04:21.210+02:00","updated":"2026-09-12T23:01:25.983+02:00","dg-note-properties":{"tags":["lieux"]}}
+{"dg-publish":true,"permalink":"/05-lieux/ocean-des-fantomes/","tags":["lieux"],"dg-note-properties":{"tags":["lieux"]}}
 ---
 
 # Océan des fantômes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-pj/visions/","tags":["pj","souen"],"created":"2026-09-12T00:00:35.736+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["pj","souen"],"icon":"vision"}}
+{"dg-publish":true,"permalink":"/01-pj/visions/","tags":["pj","souen"],"dg-note-properties":{"tags":["pj","souen"],"icon":"vision"}}
 ---
 
 # Visions de Souen

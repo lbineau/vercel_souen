@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/princesse-auriane/","tags":["pnj","major"],"created":"2026-09-10T20:45:42.560+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["pnj","major"]}}
+{"dg-publish":true,"permalink":"/03-pnj/princesse-auriane/","tags":["pnj","major"],"dg-note-properties":{"tags":["pnj","major"]}}
 ---
 
 # Princesse Auriane

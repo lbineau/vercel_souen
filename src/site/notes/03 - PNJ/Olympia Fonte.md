@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/olympia-fonte/","tags":["pnj"],"created":"2026-09-08T11:37:06.268+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["pnj"],"aliases":["Olympia"]}}
+{"dg-publish":true,"permalink":"/03-pnj/olympia-fonte/","tags":["pnj"],"dg-note-properties":{"tags":["pnj"],"aliases":["Olympia"]}}
 ---
 
 # Olympia Fonte

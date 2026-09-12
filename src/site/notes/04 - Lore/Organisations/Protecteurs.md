@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-lore/organisations/protecteurs/","tags":["lore","organisation"],"created":"2026-09-12T00:00:35.745+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["lore","organisation"]}}
+{"dg-publish":true,"permalink":"/04-lore/organisations/protecteurs/","tags":["lore","organisation"],"dg-note-properties":{"tags":["lore","organisation"]}}
 ---
 
 # Protecteurs (lignée)

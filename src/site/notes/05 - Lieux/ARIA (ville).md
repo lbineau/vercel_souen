@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/aria-ville/","tags":["lieu"],"created":"2026-09-12T21:50:55.450+02:00","updated":"2026-09-12T23:01:25.980+02:00","dg-note-properties":{"tags":["lieu"],"marker":[{"colour":"#f44546","coordinates":"2782, 3976","icon":"lucide-building-2"}]}}
+{"dg-publish":true,"permalink":"/05-lieux/aria-ville/","tags":["lieu"],"dg-note-properties":{"tags":["lieu"],"marker":[{"colour":"#f44546","coordinates":"2782, 3976","icon":"lucide-building-2"}]}}
 ---
 
 # ARIA (ville)

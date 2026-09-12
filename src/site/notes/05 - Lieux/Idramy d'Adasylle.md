@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/idramy-d-adasylle/","tags":["lieu"],"created":"2026-09-11T22:22:28.563+02:00","updated":"2026-09-12T23:01:25.983+02:00","dg-note-properties":{"tags":["lieu"]}}
+{"dg-publish":true,"permalink":"/05-lieux/idramy-d-adasylle/","tags":["lieu"],"dg-note-properties":{"tags":["lieu"]}}
 ---
 
 # Idramy d'Adasylle

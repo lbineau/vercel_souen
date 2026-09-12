@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-lore/creatures/tulpa/","tags":["creature","lore"],"created":"2026-09-11T23:59:15.137+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["creature","lore"]}}
+{"dg-publish":true,"permalink":"/04-lore/creatures/tulpa/","tags":["creature","lore"],"dg-note-properties":{"tags":["creature","lore"]}}
 ---
 
 # Tulpa
