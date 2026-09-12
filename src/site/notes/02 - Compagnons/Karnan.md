@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-compagnons/karnan/","tags":["compagnon"],"dg-note-properties":{"tags":["compagnon"],"icon":"karnan"}}
+{"dg-publish":true,"permalink":"/02-compagnons/karnan/","tags":["compagnon"],"created":"2026-09-12T22:00:03.085+02:00","updated":"2026-09-12T23:01:25.710+02:00","dg-note-properties":{"tags":["compagnon"],"icon":"karnan"}}
 ---
 
 # Karnan

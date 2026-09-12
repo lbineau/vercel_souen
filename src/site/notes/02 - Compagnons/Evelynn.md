@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-compagnons/evelynn/","tags":["compagnon"],"dg-note-properties":{"tags":["compagnon"],"aliases":["Aelynor Vanem"],"icon":"evelynn"}}
+{"dg-publish":true,"permalink":"/02-compagnons/evelynn/","tags":["compagnon"],"created":"2026-09-11T22:22:28.547+02:00","updated":"2026-09-12T23:01:25.710+02:00","dg-note-properties":{"tags":["compagnon"],"aliases":["Aelynor Vanem"],"icon":"evelynn"}}
 ---
 
 # Evelynn O'Mara

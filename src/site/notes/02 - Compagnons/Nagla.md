@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-compagnons/nagla/","tags":["compagnon"],"dg-note-properties":{"tags":["compagnon"],"icon":"nagla"}}
+{"dg-publish":true,"permalink":"/02-compagnons/nagla/","tags":["compagnon"],"created":"2026-09-08T10:20:34.827+02:00","updated":"2026-09-12T23:01:25.710+02:00","dg-note-properties":{"tags":["compagnon"],"icon":"nagla"}}
 ---
 
 # Nagla

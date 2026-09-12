@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/bonne-fortune/","tags":["pnj"],"dg-note-properties":{"tags":["pnj"],"aliases":["l'Assassin"]}}
+{"dg-publish":true,"permalink":"/03-pnj/bonne-fortune/","tags":["pnj"],"created":"2026-09-11T22:30:33.870+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["pnj"],"aliases":["l'Assassin"]}}
 ---
 
 # Bonne Fortune / L'Assassin

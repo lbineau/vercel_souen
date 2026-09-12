@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/naporia/","tags":["lieu"],"dg-note-properties":{"tags":["lieu"]}}
+{"dg-publish":true,"permalink":"/05-lieux/naporia/","tags":["lieu"],"created":"2026-09-11T00:04:57.261+02:00","updated":"2026-09-12T23:01:25.980+02:00","dg-note-properties":{"tags":["lieu"]}}
 ---
 
 # Naporia

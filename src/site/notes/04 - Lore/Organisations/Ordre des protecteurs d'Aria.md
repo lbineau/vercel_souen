@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-lore/organisations/ordre-des-protecteurs-d-aria/","tags":["lore","organisation"],"dg-note-properties":{"tags":["lore","organisation"]}}
+{"dg-publish":true,"permalink":"/04-lore/organisations/ordre-des-protecteurs-d-aria/","tags":["lore","organisation"],"created":"2026-09-08T14:49:15.199+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["lore","organisation"]}}
 ---
 
 # Ordre des protecteurs d'Aria

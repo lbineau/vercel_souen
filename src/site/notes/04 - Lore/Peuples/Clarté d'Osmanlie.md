@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-lore/peuples/clarte-d-osmanlie/","dg-note-properties":{"aliases":["Sanakale"]}}
+{"dg-publish":true,"permalink":"/04-lore/peuples/clarte-d-osmanlie/","created":"2026-09-11T22:03:40.870+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"aliases":["Sanakale"]}}
 ---
 
 # L'an 0 — Clarté d'Osmanlie

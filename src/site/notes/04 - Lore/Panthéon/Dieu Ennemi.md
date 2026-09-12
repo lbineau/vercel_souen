@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-lore/pantheon/dieu-ennemi/","tags":["dieu"],"dg-note-properties":{"aliases":["l'Étranger"],"tags":["dieu"]}}
+{"dg-publish":true,"permalink":"/04-lore/pantheon/dieu-ennemi/","tags":["dieu"],"created":"2026-09-12T20:29:25.626+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"aliases":["l'Étranger"],"tags":["dieu"]}}
 ---
 
 # Dieu Ennemi / l'Étranger

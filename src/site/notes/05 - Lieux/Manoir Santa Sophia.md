@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/manoir-santa-sophia/","tags":["lieu"],"dg-note-properties":{"tags":["lieu"]}}
+{"dg-publish":true,"permalink":"/05-lieux/manoir-santa-sophia/","tags":["lieu"],"created":"2026-09-12T21:45:32.284+02:00","updated":"2026-09-12T23:01:25.710+02:00","dg-note-properties":{"tags":["lieu"]}}
 ---
 
 # Manoir Santa Sophia
