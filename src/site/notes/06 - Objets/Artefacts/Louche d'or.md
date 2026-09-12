@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-objets/artefacts/louche-d-or/","tags":["objets","artefacts"],"dg-note-properties":{"tags":["objets","artefacts"]}}
+{"dg-publish":true,"permalink":"/06-objets/artefacts/louche-d-or/","tags":["objets","artefacts"],"created":"2026-09-12T21:54:05.893+02:00","updated":"2026-09-12T23:01:25.710+02:00","dg-note-properties":{"tags":["objets","artefacts"]}}
 ---
 
 # Louche d'or

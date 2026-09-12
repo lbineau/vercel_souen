@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-objets/codex/codex-major/","tags":["objets","codex"],"dg-note-properties":{"tags":["objets","codex"]}}
+{"dg-publish":true,"permalink":"/06-objets/codex/codex-major/","tags":["objets","codex"],"created":"2026-09-08T22:21:59.769+02:00","updated":"2026-09-12T23:01:25.710+02:00","dg-note-properties":{"tags":["objets","codex"]}}
 ---
 
 # Codex Major

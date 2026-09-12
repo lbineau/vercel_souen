@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/parc-des-anges/","tags":["lieu"],"dg-note-properties":{"tags":["lieu"]}}
+{"dg-publish":true,"permalink":"/05-lieux/parc-des-anges/","tags":["lieu"],"created":"2026-09-12T21:50:51.766+02:00","updated":"2026-09-12T23:01:25.979+02:00","dg-note-properties":{"tags":["lieu"]}}
 ---
 
 # Parc des anges

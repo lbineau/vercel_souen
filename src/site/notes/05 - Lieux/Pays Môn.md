@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/pays-mon/","tags":["lieux"],"dg-note-properties":{"tags":["lieux"]}}
+{"dg-publish":true,"permalink":"/05-lieux/pays-mon/","tags":["lieux"],"created":"2026-09-11T22:22:28.606+02:00","updated":"2026-09-12T23:01:25.979+02:00","dg-note-properties":{"tags":["lieux"]}}
 ---
 
 # Pays Môn
