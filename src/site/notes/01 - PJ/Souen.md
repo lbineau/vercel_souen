@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-pj/souen/","tags":["pj"],"created":"2026-09-08T14:59:04.927+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["pj"],"aliases":["Souen"],"icon":"souen"}}
+{"dg-publish":true,"permalink":"/01-pj/souen/","tags":["pj"],"created":"2026-09-13T01:10:23.923+02:00","updated":"2026-09-13T01:10:23.926+02:00","dg-note-properties":{"tags":["pj"],"aliases":["Souen"],"icon":"souen"}}
 ---
 
 # Souen
@@ -84,6 +84,9 @@ Les femmes ne semblent pas vraiment l'intéresser et de nombreuses conquêtes po
 Tout porterait à ce qu'il s'engage vers la voie de la vengeance en découvrant que sa famille a été assassinée mais fort de ses enseignements de moine, et de sa résilience grâce à la méditation, il préfère généralement les combats avec une issue non létale. 
 
 Il commence à apprécier un peu trop la *[[06 - Objets/Potions#Mérilia\|Potions#Mérilia]]*.
+
+## Amour
+Les femmes ne l'intéressent globalement pas, nombreuses conquêtes potentielles laissées sur le carreau. Exception: [[03 - PNJ/Chloé Gisbert\|Chloé Gisbert]], tenancière de l'[[05 - Lieux/Auberge du poney fringant\|Auberge du poney fringant]] à [[05 - Lieux/Altabianca\|Altabianca]], qui l'a peut être amadoué à force de bon repas du matin au soir.
 
 ## Histoire
 Abandonné par parents à 5 ans, recueilli dans temple de moines en [[05 - Lieux/Amasya\|Amasya]]. Se rappelle pas vraiment d'où il vient, question d'origine pas trop présente dans son esprit — tourné plutôt vers foi et enseignements arts martiaux pour combler absence.
