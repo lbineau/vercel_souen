@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-objets/armes/dague-donnee-par-l-assassin/","tags":["objets","armes"],"created":"2026-09-11T22:55:41.193+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["objets","armes"]}}
+{"dg-publish":true,"permalink":"/06-objets/armes/dague-donnee-par-l-assassin/","tags":["objets","armes"],"dg-note-properties":{"tags":["objets","armes"]}}
 ---
 
 # Dague donnée par l'Assassin (possédé)

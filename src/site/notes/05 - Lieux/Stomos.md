@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/stomos/","tags":["lieu"],"created":"2026-09-08T10:21:30.865+02:00","updated":"2026-09-12T23:01:25.979+02:00","dg-note-properties":{"tags":["lieu"]}}
+{"dg-publish":true,"permalink":"/05-lieux/stomos/","tags":["lieu"],"dg-note-properties":{"tags":["lieu"]}}
 ---
 
 # Stomos

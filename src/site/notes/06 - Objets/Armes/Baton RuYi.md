@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-objets/armes/baton-ru-yi/","tags":["objets","armes"],"created":"2026-09-11T22:57:55.757+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["objets","armes"]}}
+{"dg-publish":true,"permalink":"/06-objets/armes/baton-ru-yi/","tags":["objets","armes"],"dg-note-properties":{"tags":["objets","armes"]}}
 ---
 
 # Baton RuYi

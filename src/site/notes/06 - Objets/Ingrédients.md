@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-objets/ingredients/","tags":["objets","ingrédients"],"created":"2026-09-12T22:00:08.862+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["objets","ingrédients"]}}
+{"dg-publish":true,"permalink":"/06-objets/ingredients/","tags":["objets","ingrédients"],"dg-note-properties":{"tags":["objets","ingrédients"]}}
 ---
 
 # Ingrédients

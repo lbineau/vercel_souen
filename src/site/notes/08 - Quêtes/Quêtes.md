@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-quetes/quetes/","tags":["quetes"],"created":"2026-09-12T00:10:07.813+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["quetes"]}}
+{"dg-publish":true,"permalink":"/08-quetes/quetes/","tags":["quetes"],"dg-note-properties":{"tags":["quetes"]}}
 ---
 
 # Quêtes

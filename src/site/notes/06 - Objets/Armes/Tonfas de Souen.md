@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-objets/armes/tonfas-de-souen/","tags":["objets","armes"],"created":"2026-09-11T23:03:04.411+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["objets","armes"],"aliases":["Bâton de Souen"]}}
+{"dg-publish":true,"permalink":"/06-objets/armes/tonfas-de-souen/","tags":["objets","armes"],"dg-note-properties":{"tags":["objets","armes"],"aliases":["Bâton de Souen"]}}
 ---
 
 # Tonfas de Souen

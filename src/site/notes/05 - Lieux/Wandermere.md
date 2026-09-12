@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/wandermere/","tags":["lieu"],"created":"2026-09-11T22:22:28.574+02:00","updated":"2026-09-12T23:01:25.980+02:00","dg-note-properties":{"tags":["lieu"]}}
+{"dg-publish":true,"permalink":"/05-lieux/wandermere/","tags":["lieu"],"dg-note-properties":{"tags":["lieu"]}}
 ---
 
 # Wandermere
