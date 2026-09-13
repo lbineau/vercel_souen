@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/cassandre/","tags":["pnj"],"created":"2026-09-11T22:57:55.768+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["pnj"]}}
+{"dg-publish":true,"permalink":"/03-pnj/cassandre/","tags":["pnj"],"created":"2026-09-11T22:57:55.768+02:00","updated":"2026-09-13T11:21:03.844+02:00","dg-note-properties":{"tags":["pnj"]}}
 ---
 
 # Cassandre
-**Lieu(x):** [[05 - Lieux/ARIA (ville)\|ARIA (ville)]]
+**Lieu(x):** [[05 - Lieux/Aria\|Aria]]
 - Conseillère du roi / princesse Auriane
 - Commandante d'Aria
 - Commande les armées

@@ -4,7 +4,7 @@
 
 # Atouts de la sagesse
 
-Ensemble de 3 objets liés au [[04 - Lore/Panthéon/Roi des rois\|Roi des rois]].
+Ensemble de 3 objets liés au [[04 - Lore/Mythologie/Roi des rois\|Roi des rois]].
 
 - [[06 - Objets/Atouts de la sagesse/Sceptre du Roi des Rois\|Sceptre du Roi des Rois]]
 - [[06 - Objets/Atouts de la sagesse/Couronne du Roi des Rois\|Couronne du Roi des Rois]]

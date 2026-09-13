@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/melanda-la-sage/","tags":["pnj"],"created":"2026-09-08T11:35:16.542+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["pnj"]}}
+{"dg-publish":true,"permalink":"/03-pnj/melanda-la-sage/","tags":["pnj"],"created":"2026-09-08T11:35:16.542+02:00","updated":"2026-09-13T11:21:03.923+02:00","dg-note-properties":{"tags":["pnj"]}}
 ---
 
 # Melanda la sage
-**Lieu(x):** [[05 - Lieux/ARIA (ville)\|ARIA (ville)]]
+**Lieu(x):** [[05 - Lieux/Aria\|Aria]]
 - Dernière survivante des Magiciens de la Nuit, ordre secret protégeant Aria
 - Ordre responsable de la destruction de l'Académie Noire
 - Vit isolée dans une hutte

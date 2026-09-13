@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-objets/codex/codex-occultatum/","tags":["objets","codex"],"created":"2026-09-12T00:00:35.752+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["objets","codex"]}}
+{"dg-publish":true,"permalink":"/06-objets/codex/codex-occultatum/","tags":["objets","codex"],"created":"2026-09-13T12:16:03.841+02:00","updated":"2026-09-13T12:16:03.841+02:00","dg-note-properties":{"tags":["objets","codex"]}}
 ---
 
 # Codex Occultatum — Secret des dieux
@@ -15,7 +15,7 @@
 
 - **Révélations lues:**
 	- « Dans le secret des dieux »: le dieu ennemi souhaite la mort des hommes
-	- Seul le roi des rois sait où se trouve le « bord du monde » (le Scélat était une tombe d'un roi des rois)
-	- Un homme, roi des rois, doté de tous les atouts de la sagesse, dirige les hommes ; à ses côtés une femme, la guerrière du secret [[04 - Lore/Familles/Santa Sophia\|Santa Sophia]], destinée à éliminer les agents de l'ennemi et particulièrement le surnaturel
+	- Seul le [[04 - Lore/Mythologie/Roi des rois\|Roi des rois]] sait où se trouve le [[04 - Lore/Mythologie/Bord du Monde\|« bord du monde »]] (le Scélat était une tombe d'un roi des rois)
+	- Un homme, [[04 - Lore/Mythologie/Roi des rois\|Roi des rois]], doté de tous les [[06 - Objets/Atouts de la sagesse/Atouts de la sagesse\|atouts de la sagesse]], dirige les hommes ; à ses côtés une femme, la guerrière du secret [[04 - Lore/Panthéon/Déesse Santa Sophia\|Santa Sophia]], destinée à éliminer les agents de l'ennemi et particulièrement le surnaturel
 	- Le dieu ennemi a 2 serviteurs spéciaux: des humains ordinaires à puissance surhumaine qu'il a personnellement sauvés de la mort (jamais identifiés, soupçon: Bonnefortune) ; et les [[04 - Lore/Créatures/Tulpa\|Tulpa]]s, esprits capables de changer de forme et densité, créés par sacrifice de dizaines/centaines de personnes, pouvant prendre la forme d'une victime décédée et servant inconditionnellement l'ennemi
 	- La guerrière du secret commence à créer un ordre…

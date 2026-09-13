@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/astrid/","tags":["pnj"],"created":"2026-09-08T11:37:06.287+02:00","updated":"2026-09-12T23:01:25.709+02:00","dg-note-properties":{"tags":["pnj"]}}
+{"dg-publish":true,"permalink":"/03-pnj/astrid/","tags":["pnj"],"created":"2026-09-08T11:37:06.287+02:00","updated":"2026-09-13T11:21:03.817+02:00","dg-note-properties":{"tags":["pnj"]}}
 ---
 
 # Astrid
-**Lieu(x):** [[05 - Lieux/ARIA (ville)\|ARIA (ville)]]
+**Lieu(x):** [[05 - Lieux/Aria\|Aria]]
 - Chancelière de la [[04 - Lore/Organisations/Guilde des marchands\|Guilde des marchands]]
 - Voleuse
 - Surnommée "Astrid aux 2 visages"

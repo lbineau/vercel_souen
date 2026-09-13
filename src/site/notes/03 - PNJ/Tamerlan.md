@@ -4,5 +4,5 @@
 
 # [[03 - PNJ/Tamerlan\|Tamerlan]]
 
-- A fait appel à la [[04 - Lore/Peuples/Clarté d'Osmanlie\|Clarté d'Osmanlie]]
+- A fait appel à la [[04 - Lore/Mythologie/Clarté d'Osmanlie\|Clarté d'Osmanlie]]
 - Mage puissant?

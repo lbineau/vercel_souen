@@ -7,10 +7,10 @@
 ## Mort de [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]]
 - [x] Aller au [[Nuage enchanteur\|Nuage enchanteur]] pour faire lire le document de [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]]
 - [x] Faire lire les documents a [[03 - PNJ/Melanda la sage\|Melanda la sage]]
-- [ ] Informer ou non le [[Sultan d'Aqabah\|Sultan d'Aqabah]] de la mort de son fils
-- [ ] Rapporter la boîte de [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]] au [[Sultan d'Aqabah\|Sultan d'Aqabah]] en personne (promesse de richesse)
+- [ ] Informer ou non le [[03 - PNJ/Sultan d'Aqabah\|Sultan d'Aqabah]] de la mort de son fils
+- [ ] Rapporter la boîte de [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]] au [[03 - PNJ/Sultan d'Aqabah\|Sultan d'Aqabah]] en personne (promesse de richesse)
 - [ ] Aller voir [[03 - PNJ/Mira\|Mira]], gouvernante et amie de [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]]
-  - PNJ liés: [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]], [[Sultan d'Aqabah\|Sultan d'Aqabah]], [[03 - PNJ/Jotun\|Jotun]], [[03 - PNJ/Mira\|Mira]]
+  - PNJ liés: [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]], [[03 - PNJ/Sultan d'Aqabah\|Sultan d'Aqabah]], [[03 - PNJ/Jotun\|Jotun]], [[03 - PNJ/Mira\|Mira]]
 
 ## Bâton RuYi / Bibliothèques
 - [ ] Pour trouver des informations sur le [[06 - Objets/Armes/Baton RuYi\|Baton RuYi]], trouver info dans 3 bibliothèques

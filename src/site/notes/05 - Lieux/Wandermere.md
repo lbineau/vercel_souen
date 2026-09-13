@@ -15,4 +15,4 @@ Entre [[05 - Lieux/Wandermere\|Wandermere]] et [[05 - Lieux/Stomos\|Stomos]]. Vi
 ## Personnages
 - Bourgmestre: [[03 - PNJ/Nataniel\|Nataniel]]
 - Albanil, pêcheur — parle des monstres légendaires des mers
-- [[03 - PNJ/Karl\|Karl]], marchand d'ustensiles de pêche (fil en acier blanc du [[04 - Lore/Peuples/Mon\|pays Môn]]). Femme [[03 - PNJ/Yera\|Yera]] enlevée sur terres du [[03 - PNJ/Baron gris\|Baron gris]], gouffre de [[05 - Lieux/Stomos\|Stomos]].
+- [[03 - PNJ/Karl\|Karl]], marchand d'ustensiles de pêche (fil en acier blanc du [[04 - Lore/Mythologie/Mon\|pays Môn]]). Femme [[03 - PNJ/Yera\|Yera]] enlevée sur terres du [[03 - PNJ/Baron gris\|Baron gris]], gouffre de [[05 - Lieux/Stomos\|Stomos]].

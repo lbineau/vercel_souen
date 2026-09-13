@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/savina/","tags":["pnj"],"created":"2026-09-13T00:04:45.811+02:00","updated":"2026-09-13T00:06:09.017+02:00","dg-note-properties":{"tags":["pnj"]}}
+{"dg-publish":true,"permalink":"/03-pnj/savina/","tags":["pnj"],"created":"2026-09-13T00:04:45.811+02:00","updated":"2026-09-13T11:21:03.979+02:00","dg-note-properties":{"tags":["pnj"]}}
 ---
 
 # Savina
-**Lieu(x):** [[05 - Lieux/ARIA (ville)\|ARIA (ville)]]
+**Lieu(x):** [[05 - Lieux/Aria\|Aria]]
 - Coeur brisé?
 - Garde d'Aria
 - Chef groupe malfaisant, prend garde exclusive du [[05 - Lieux/Parc des anges\|Parc des anges]] ([[07 - Séances/2023-06-09\|séance 2023-06-09]])

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-pj/visions/","tags":["pj","souen"],"created":"2026-09-13T00:49:38.470+02:00","updated":"2026-09-13T00:49:38.470+02:00","dg-note-properties":{"tags":["pj","souen"],"icon":"vision"}}
+{"dg-publish":true,"permalink":"/01-pj/visions/","tags":["pj","souen"],"created":"2026-09-13T11:48:24.450+02:00","updated":"2026-09-13T11:48:24.450+02:00","dg-note-properties":{"tags":["pj","souen"],"icon":"vision"}}
 ---
 
 # Visions de Souen
@@ -36,4 +36,4 @@ En touchant le sang près de la broche trouvée dans le jardin de la [[05 - Lieu
 En touchant la poignée du manoir familial : lueurs vertes autour d'un [[04 - Lore/Créatures/Tulpa\|Tulpa]] (vision gardée secrète, révélée seulement en partie à Olympia).
 
 ## [[07 - Séances/2026-08-21\|2026-08-21]]
-En repensant à l'enfant [[04 - Lore/Créatures/Tulpa\|Tulpa]] : cliquetis régulier devenant martèlement de marteau sur enclume, forge d'une lame. Je vois la statue des Santa Sophia resplendissante, une brume verte se lève, des formes lycanthropiques tuent femmes et enfants. Du sang coule des poignets de la statue. Le martèlement cesse, la lame nouvellement forgée est trempée dans ce sang. Une main s'en saisit, au premier coup d'épée la brume disparaît. Cette lame est celle des Santa Sophia que je possède — malaise : forgée avec le sang d'innocents.
+En repensant à l'enfant [[04 - Lore/Créatures/Tulpa\|Tulpa]] : cliquetis régulier devenant martèlement de marteau sur enclume, forge d'une lame. Je vois la statue des [[04 - Lore/Panthéon/Déesse Santa Sophia\|Santa Sophia]] resplendissante, une brume verte se lève, des formes lycanthropiques tuent femmes et enfants. Du sang coule des poignets de la statue. Le martèlement cesse, la lame nouvellement forgée est trempée dans ce sang. Une main s'en saisit, au premier coup d'épée la brume disparaît. Cette lame est celle des [[04 - Lore/Familles/Santa Sophia\|Santa Sophia]] que je possède — malaise : forgée avec le sang d'innocents.

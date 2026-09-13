@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/alfredo-de-la-puerta/","tags":["pnj"],"created":"2026-09-13T00:54:55.771+02:00","updated":"2026-09-13T00:54:55.771+02:00","dg-note-properties":{"tags":["pnj"]}}
+{"dg-publish":true,"permalink":"/03-pnj/alfredo-de-la-puerta/","tags":["pnj"],"created":"2026-09-13T12:07:48.823+02:00","updated":"2026-09-13T12:07:48.823+02:00","dg-note-properties":{"tags":["pnj"]}}
 ---
 
 # Alfredo de la Puerta
@@ -10,7 +10,7 @@
 - Connaît marché aux esclaves : possible payer, loger, affranchir travailleurs
 - [[03 - PNJ/Poule guerrière\|Une poule]] lui fait confiance, mange dans sa main
 - Symbole de ses soirées : alcyon avec lanières de cuir (broche retrouvée)
-- Proche d'Acelia (prostituée Osmanlienne) et lié à [[03 - PNJ/Iacomo Malatesta\|Iacomo Malatesta]] (suggère de l'interroger sur disparition d'Iacomo)
-- Lié au Manoir Dolce (sinistre, rumeur d'humain se nourrissant d'autres humains)
+- Proche d'[[03 - PNJ/Acélia\|Acélia]] (prostituée Osmanlienne) et lié à [[03 - PNJ/Iacomo Malatesta\|Iacomo Malatesta]] (suggère de l'interroger sur disparition d'Iacomo)
+- Lié au [[05 - Lieux/Manoir Dolce\|Manoir Dolce]] (sinistre, rumeur d'humain se nourrissant d'autres humains)
 
 **Quêtes liées:** [[08 - Quêtes/Quêtes#Disparition Iacomo Malatesta\|Quêtes#Disparition Iacomo Malatesta]]

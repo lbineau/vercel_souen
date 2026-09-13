@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/olympia-fonte/","tags":["pnj"],"created":"2026-09-08T11:37:06.268+02:00","updated":"2026-09-13T00:37:19.070+02:00","dg-note-properties":{"tags":["pnj"],"aliases":["Olympia"]}}
+{"dg-publish":true,"permalink":"/03-pnj/olympia-fonte/","tags":["pnj"],"created":"2026-09-08T11:37:06.268+02:00","updated":"2026-09-13T11:54:48.539+02:00","dg-note-properties":{"tags":["pnj"],"aliases":["Olympia"]}}
 ---
 
 # Olympia Fonte
@@ -14,5 +14,7 @@
 	- Carmelo
 	- [[03 - PNJ/Prince Léonide\|Prince Léonide]]
 	- [[03 - PNJ/Iacomo Malatesta\|Iacomo Malatesta]]
+- [[01 - PJ/Souen\|Souen]] lui avoue qu'il est un [[04 - Lore/Familles/Santa Sophia\|Santa Sophia]]
+- Officialise le titre de propriété du [[05 - Lieux/Manoir Santa Sophia\|Manoir Santa Sophia]] au nom des [[04 - Lore/Familles/Skagarfala\|Skagarfala]] pour ne pas divulguer l'appartenance de [[01 - PJ/Souen\|Souen]] à la famille des [[04 - Lore/Familles/Santa Sophia\|Santa Sophia]]
 
 **Quêtes liées:** [[08 - Quêtes/Quêtes#Disparition Iacomo Malatesta\|Quêtes#Disparition Iacomo Malatesta]]

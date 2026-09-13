@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/parc-des-anges/","tags":["lieu"],"created":"2026-09-12T21:50:51.766+02:00","updated":"2026-09-12T23:01:25.979+02:00","dg-note-properties":{"tags":["lieu"]}}
+{"dg-publish":true,"permalink":"/05-lieux/parc-des-anges/","tags":["lieu"],"created":"2026-09-12T21:50:51.766+02:00","updated":"2026-09-13T11:21:04.081+02:00","dg-note-properties":{"tags":["lieu"]}}
 ---
 
 # Parc des anges
 
-- Quartier d'[[05 - Lieux/ARIA (ville)\|Aria]], entre [[05 - Lieux/ARIA (ville)#Squero\|Squero]] et port
+- Quartier d'[[05 - Lieux/Aria\|Aria]], entre [[05 - Lieux/Aria#Squero\|Squero]] et port
 - Parc en ruines envahi par plantes; fleur olfactive (plante à cloche inversée réagissant aux odeurs) ([[07 - Séances/2024-11-29\|séance 2024-11-29]])
 - [[03 - PNJ/Fripouille\|Fripouille]], chat sacré, en est garde
 - [[03 - PNJ/Savina\|Savina]] a pris garde exclusive du parc ([[07 - Séances/2023-06-09\|séance 2023-06-09]])

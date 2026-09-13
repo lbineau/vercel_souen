@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-index/index/","tags":["campagne","index","gardenEntry"],"created":"2026-09-11T22:56:06.638+02:00","updated":"2026-09-12T23:01:26.055+02:00","dg-note-properties":{"tags":["campagne","index","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/00-index/index/","tags":["campagne","index","gardenEntry"],"created":"2026-09-11T22:56:06.638+02:00","updated":"2026-09-13T11:21:03.776+02:00","dg-note-properties":{"tags":["campagne","index","gardenEntry"]}}
 ---
 
 # ARIA JDR — Campagne du groupe à 4
@@ -23,7 +23,7 @@
 - Organisations : voir dossier `04 - Lore/Organisations/`
 
 ## Lieux
-- [[05 - Lieux/ARIA (ville)\|ARIA (ville)]]
+- [[05 - Lieux/Aria\|Aria]]
 - [[05 - Lieux/Altabianca\|Altabianca]]
 - [[05 - Lieux/Aqabah\|Aqabah]]
 - [[05 - Lieux/Wandermere\|Wandermere]]

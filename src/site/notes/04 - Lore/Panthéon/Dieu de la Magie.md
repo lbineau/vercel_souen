@@ -7,4 +7,4 @@
 - Aussi appelé Dieu Dragon (Septentrion), Dieu de la Sagesse (Aqabah)
 - Réside dans Coriolis, sous montagne du dieu de la Sagesse
 - En guerre contre peuple Mon — régnait sur pays blanc (île du Septentrion)
-- A tué [[04 - Lore/Peuples/Mon\|déesse Mon]] dans ce conflit
+- A tué [[04 - Lore/Mythologie/Mon\|déesse Mon]] dans ce conflit

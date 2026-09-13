@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-lieux/altabianca/","tags":["lieu"],"created":"2026-09-13T00:49:38.520+02:00","updated":"2026-09-13T00:49:38.520+02:00","dg-note-properties":{"tags":["lieu"]}}
+{"dg-publish":true,"permalink":"/05-lieux/altabianca/","tags":["lieu"],"created":"2026-09-13T12:07:48.818+02:00","updated":"2026-09-13T12:07:48.818+02:00","dg-note-properties":{"tags":["lieu"]}}
 ---
 
 # Altabianca
@@ -14,7 +14,7 @@ Principauté la plus riche d'Aria. Ville labyrinthe magnifique. Animal fétiche:
 - **[[05 - Lieux/Manoir de la Puerta\|Manoir de la Puerta]]**: Alfredo de la Puerta.
 - **Le Libero**: lieu de fête, nudité + masques.
 - **[[05 - Lieux/Résidence Malatesta\|Résidence Malatesta]]**: labo, bibliothèque, jardin. Disparition de [[03 - PNJ/Iacomo Malatesta\|Iacomo Malatesta]].
-- **Manoir Dolce**: sinistre, ancien lieu où quelqu'un se nourrissait d'humains. Coffre à 2 saphirs (maudits ?).
+- **[[05 - Lieux/Manoir Dolce\|Manoir Dolce]]**: sinistre, ancien lieu où quelqu'un se nourrissait d'humains. Coffre à 2 saphirs (maudits ?).
 - **[[05 - Lieux/Auberge du poney fringant\|Auberge du poney fringant]]**: tenancière [[03 - PNJ/Chloé Gisbert\|Chloé Gisbert]].
 - **Le Squero**: maison de Shazam.
 - **Dame Richesse**: immense statue en face du phare.

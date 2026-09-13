@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/04-lore/creatures/tulpa/","tags":["creature","lore"],"created":"2026-09-11T23:59:15.137+02:00","updated":"2026-09-12T23:01:25.704+02:00","dg-note-properties":{"tags":["creature","lore"]}}
+{"dg-publish":true,"permalink":"/04-lore/creatures/tulpa/","tags":["creature","lore"],"created":"2026-09-11T23:59:15.137+02:00","updated":"2026-09-13T12:29:43.012+02:00","dg-note-properties":{"tags":["creature","lore"]}}
 ---
 
 # Tulpa
 
 - Esprit créé par sacrifice de dizaines/centaines de personnes, serviteur inconditionnel du [[04 - Lore/Panthéon/Dieu Ennemi\|Dieu Ennemi]]
-- Change de forme et de densité, peut prendre apparence d'une victime décédée récemment
+- Forme lycanthropique, change de forme et de densité, peut prendre apparence d'une victime décédée récemment
 - Combat: griffes/dents énormes, force surhumaine, peut fuir sous forme de fumée
 - Ne saigne pas comme humain normal une fois "mort" (sang en excès, anormal)
 - [[04 - Lore/Organisations/Protecteurs\|Protecteurs]] entraînés à combattre les serviteurs du Dieu Ennemi, utiles contre Tulpa

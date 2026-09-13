@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-objets/potions/","tags":["objets","potions"],"created":"2026-09-13T00:12:24.256+02:00","updated":"2026-09-13T01:02:18.607+02:00","dg-note-properties":{"tags":["objets","potions"]}}
+{"dg-publish":true,"permalink":"/06-objets/potions/","tags":["objets","potions"],"created":"2026-09-13T00:12:24.256+02:00","updated":"2026-09-13T12:01:13.207+02:00","dg-note-properties":{"tags":["objets","potions"]}}
 ---
 
 # Potions
@@ -13,7 +13,7 @@
 - [[02 - Compagnons/Karnan\|Karnan]] peut voir temporairement après en avoir bu
 
 ## Passe-Muraille de Karloff
-- L'utilisateur peut ainsi faire disparaître tout ce qu'il souhaite en y versant dessus l'intégralité de la potion.
+- L'utilisateur peut ainsi faire fondre tout ce qu'il souhaite (sauf le verre) en y versant dessus l'intégralité de la potion.
 
 ## Chaud lapin
 - Une potion qui diffuse des phéromones sur la cible (vivantes ou végétal il semblerait)
@@ -21,7 +21,7 @@
 ## Garfunkel
 - Utilisée pour interroger [[03 - PNJ/Savina\|Savina]]
 - Semble provoquer des hallucinations
-- Effets?
+- Effets? demander à [[02 - Compagnons/Nagla\|Nagla]]
 
 ## Promenice
 - Rend les cibles molles (perte de tonus musculaire)
@@ -29,3 +29,9 @@
 
 ## Persoc
 - utilisé pour ressouder les os de [[01 - PJ/Souen\|Souen]] ([[07 - Séances/2025-05-09\|2025-05-09]])
+
+## Toulpinette
+- Effet? demander à [[02 - Compagnons/Nagla\|Nagla]]
+
+## Bronzolite
+- Permet de rendre invisible
