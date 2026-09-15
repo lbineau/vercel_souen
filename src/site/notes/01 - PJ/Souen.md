@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-pj/souen/","tags":["pj"],"created":"2026-09-13T01:10:23.923+02:00","updated":"2026-09-13T01:10:23.926+02:00","dg-note-properties":{"tags":["pj"],"aliases":["Souen"],"icon":"souen"}}
+{"dg-publish":true,"permalink":"/01-pj/souen/","tags":["pj"],"created":"2026-09-13T01:10:23.923+02:00","updated":"2026-09-15T23:50:17.051+02:00","dg-note-properties":{"tags":["pj"],"aliases":["Souen"],"icon":"souen"}}
 ---
 
 # Souen
 
 > [!infobox]
-> # Souen
-> ![pp-souen.webp\|cover portrait](/img/user/z_medias/pp-souen.webp)
+> ## Souen
+> ![pp-souen.webp\|cover hm-med ws-med](/img/user/z_medias/pp-souen.webp)
 > 
 > ---
 > ## **Caractéristiques**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-objets/potions/","tags":["objets","potions"],"created":"2026-09-13T00:12:24.256+02:00","updated":"2026-09-13T12:01:13.207+02:00","dg-note-properties":{"tags":["objets","potions"]}}
+{"dg-publish":true,"permalink":"/06-objets/potions/","tags":["objets","potions"],"created":"2026-09-13T00:12:24.256+02:00","updated":"2026-09-14T00:11:01.384+02:00","dg-note-properties":{"tags":["objets","potions"]}}
 ---
 
 # Potions
@@ -19,7 +19,7 @@
 - Une potion qui diffuse des phéromones sur la cible (vivantes ou végétal il semblerait)
 
 ## Garfunkel
-- Utilisée pour interroger [[03 - PNJ/Savina\|Savina]]
+- Utilisée pour interroger [[03 - PNJ/Salvina\|Salvina]]
 - Semble provoquer des hallucinations
 - Effets? demander à [[02 - Compagnons/Nagla\|Nagla]]
 
@@ -35,3 +35,6 @@
 
 ## Bronzolite
 - Permet de rendre invisible
+
+## Kopa Rapido
+- Permet d'accélérer la pousse de plantes

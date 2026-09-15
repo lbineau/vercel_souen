@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-pnj/ruper-le-requin/","tags":["pnj"],"created":"2026-09-08T14:50:14.959+02:00","updated":"2026-09-13T11:21:03.972+02:00","dg-note-properties":{"tags":["pnj"]}}
+{"dg-publish":true,"permalink":"/03-pnj/ruper-le-requin/","tags":["pnj"],"created":"2026-09-08T14:50:14.959+02:00","updated":"2026-09-13T23:17:04.125+02:00","dg-note-properties":{"tags":["pnj"],"aliases":["Roi des voleurs"]}}
 ---
 
 # Ruper le requin aka le roi des voleurs

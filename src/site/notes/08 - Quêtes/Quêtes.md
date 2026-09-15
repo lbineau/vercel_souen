@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-quetes/quetes/","tags":["quetes"],"created":"2026-09-13T00:47:45.555+02:00","updated":"2026-09-13T00:47:45.555+02:00","dg-note-properties":{"tags":["quetes"]}}
+{"dg-publish":true,"permalink":"/08-quetes/quetes/","tags":["quetes"],"created":"2026-09-13T00:47:45.555+02:00","updated":"2026-09-13T23:50:04.571+02:00","dg-note-properties":{"tags":["quetes"]}}
 ---
 
 # Quêtes
@@ -8,22 +8,24 @@
 - [x] Aller au [[Nuage enchanteur\|Nuage enchanteur]] pour faire lire le document de [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]]
 - [x] Faire lire les documents a [[03 - PNJ/Melanda la sage\|Melanda la sage]]
 - [ ] Informer ou non le [[03 - PNJ/Sultan d'Aqabah\|Sultan d'Aqabah]] de la mort de son fils
-- [ ] Rapporter la boîte de [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]] au [[03 - PNJ/Sultan d'Aqabah\|Sultan d'Aqabah]] en personne (promesse de richesse)
+- [ ] Rapporter la boîte en or fermé par un cadenas de [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]] au [[03 - PNJ/Sultan d'Aqabah\|Sultan d'Aqabah]] en personne (promesse de richesse)
 - [ ] Aller voir [[03 - PNJ/Mira\|Mira]], gouvernante et amie de [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]]
   - PNJ liés: [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]], [[03 - PNJ/Sultan d'Aqabah\|Sultan d'Aqabah]], [[03 - PNJ/Jotun\|Jotun]], [[03 - PNJ/Mira\|Mira]]
 
 ## Bâton RuYi / Bibliothèques
 - [ ] Pour trouver des informations sur le [[06 - Objets/Armes/Baton RuYi\|Baton RuYi]], trouver info dans 3 bibliothèques
-  - [ ] Bibliothèque royale
-  - [ ] [[05 - Lieux/Stomos\|Stomos]]
-  - [ ] Rideau
+  - [ ] [[05 - Lieux/Aria\|Aria]] - Bibliothèque royale
+  - [ ] [[05 - Lieux/Stomos\|Stomos]] - écrits dans la roche
+  - [ ] [[05 - Lieux/Aqabah\|Aqabah]] - Bibliothèque du palais
 
-## Athos / Evelynn
+## Mort d'Athos / identité Evelynn
 - [ ] La mort d'Athos et vraie identité d'[[02 - Compagnons/Evelynn\|Evelynn]]
+- [x] Aurait été tué par un collègue
+- [ ] [[03 - PNJ/Afsa\|Afsa]] aurait croisé un homme fin avec une barbe tressée et une lame à la ceinture
 - PNJ liés: [[03 - PNJ/Athos\|Athos]], [[02 - Compagnons/Evelynn\|Evelynn]]
 
 ## Sceptre de la sagesse
-- [ ] [[06 - Objets/Atouts de la sagesse/Sceptre du Roi des Rois\|Sceptre]] en [[05 - Lieux/Aqabah\|Aqabah]] ?
+- [ ] [[06 - Objets/Atouts de la sagesse/Sceptre du Roi des Rois\|Sceptre]] en [[05 - Lieux/Aqabah\|Aqabah]] ? Demander de l'aide à [[03 - PNJ/Mira\|Mira]] d'après [[03 - PNJ/Musa Al Hadi\|Musa Al Hadi]]
 - [ ] Enquêter sur [[06 - Objets/Atouts de la sagesse/Sceptre du Roi des Rois\|sceptre de la sagesse]], cause de la guerre (mission confiée par [[03 - PNJ/Cassandre\|Cassandre]])
 - [ ] Point de départ: [[05 - Lieux/Irem\|Irem]], lieu de croisade du [[03 - PNJ/Prince Estienne\|Prince Estienne]]
 - [ ] Comprendre lien avec les [[06 - Objets/Atouts de la sagesse/Atouts de la sagesse\|Atouts de la sagesse]]
@@ -71,3 +73,6 @@
 - [ ] Récupérer matériaux, potentiellement moins cher à [[05 - Lieux/Aqabah\|Aqabah]]
 - [ ] Suivre avancement travaux
 - PNJ liés: [[03 - PNJ/Ibolya\|Ibolya]], [[03 - PNJ/Markus\|Markus]]
+
+## Retrouver le père de [[02 - Compagnons/Nagla\|Nagla]]
+- S'est arrêté à [[05 - Lieux/Altabianca\|Altabianca]] mais jamais arrivé à l'[[04 - Lore/Organisations/Académie des mages\|Académie des mages]]

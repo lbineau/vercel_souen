@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-objets/ingredients/","tags":["objets","ingrédients"],"created":"2026-09-13T00:29:36.889+02:00","updated":"2026-09-13T00:35:01.629+02:00","dg-note-properties":{"tags":["objets","ingrédients"]}}
+{"dg-publish":true,"permalink":"/06-objets/ingredients/","tags":["objets","ingrédients"],"created":"2026-09-13T00:29:36.889+02:00","updated":"2026-09-14T00:07:54.059+02:00","dg-note-properties":{"tags":["objets","ingrédients"]}}
 ---
 
 # Ingrédients
@@ -25,12 +25,17 @@
 ## Alcyonine
 - Substance hallucinogène
 
-## Stomia Stoumos
+## Stomia Subnos
 - [[02 - Compagnons/Karnan\|Karnan]] la cherche pour lui permettre de recouvrer la Évoquée
 - Évoquée par Edwin, déclenche légende des pirates maudits de la mer de la morsure ([[07 - Séances/2022-12-23\|séance 2022-12-23]]). Elle emmettrait de la lumière sous l'eau
 - [[03 - PNJ/Olympia Fonte\|Olympia Fonte]] lui en donne exemplaire séché ([[07 - Séances/2024-01-19\|séance 2024-01-19]])
+- Utilisée par les mages de [[05 - Lieux/Varna\|Varna]]
 
 ## Hydromale
 - Alcool d'exception créé par [[02 - Compagnons/Evelynn\|Evelynn]] et [[02 - Compagnons/Nagla\|Nagla]]
-- Collection très limitée qui se vend exceptionnellement chère en vue d'arnaquer les nobles
-- Bouteilles à l'effigie de [[01 - PJ/Souen\|Souen]]
+- Collection très limitée qui se vend exceptionnellement cher en vue d'arnaquer les nobles
+- Bouteilles superbes à l'effigie de [[01 - PJ/Souen\|Souen]]
+
+## Les larmes de la Navigatrice
+- Vin de [[05 - Lieux/Wandermere\|Wandermere]]
+- Commandé en grande quantité par le [[03 - PNJ/Prince Léonide\|Prince Léonide]] à son mariage

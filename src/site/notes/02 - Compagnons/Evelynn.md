@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-compagnons/evelynn/","tags":["compagnon"],"created":"2026-09-11T22:22:28.547+02:00","updated":"2026-09-12T23:01:25.710+02:00","dg-note-properties":{"tags":["compagnon"],"aliases":["Aelynor Vanem"],"icon":"evelynn"}}
+{"dg-publish":true,"permalink":"/02-compagnons/evelynn/","tags":["compagnon"],"created":"2026-09-11T22:22:28.547+02:00","updated":"2026-09-15T23:50:29.160+02:00","dg-note-properties":{"tags":["compagnon"],"aliases":["Aelynor Vanem"],"icon":"evelynn"}}
 ---
 
 # Evelynn O'Mara
 > [!infobox]
-> # Evelynn
-> ![pp-evelynn.webp\|cover portrait](/img/user/z_medias/pp-evelynn.webp)
+> ## Evelynn
+> ![pp-evelynn.webp\|cover hm-med  ws-med](/img/user/z_medias/pp-evelynn.webp)
 
 - Marchande
 - Mage
+- [[04 - Lore/Organisations/Miséricordieux\|Miséricordieux]]
 - Vrai nom: Aelynor Vanem
 - A perdu la mémoire
 - Disparition pendant enquête sur mort d'un miséricordieux nommé [[03 - PNJ/Athos\|Athos]]
