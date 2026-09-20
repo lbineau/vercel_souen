@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-index/index/","tags":["campagne","index","gardenEntry"],"created":"2026-09-11T22:56:06.638+02:00","updated":"2026-09-13T11:21:03.776+02:00","dg-note-properties":{"tags":["campagne","index","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/00-index/index/","tags":["campagne","index","gardenEntry"],"created":"2026-09-20T22:59:51.154+02:00","updated":"2026-09-20T22:59:51.155+02:00","dg-note-properties":{"tags":["campagne","index","gardenEntry"]}}
 ---
 
 # ARIA JDR — Campagne du groupe à 4
@@ -8,6 +8,8 @@
 
 ## Personnage joueur
 - [[01 - PJ/Souen\|Souen]]
+- [[01 - PJ/Possessions de Souen\|Possessions de Souen]]
+- [[01 - PJ/Visions\|Visions]]
 
 ## Compagnons
 - [[02 - Compagnons/Karnan\|Karnan]]
@@ -16,25 +18,29 @@
 
 ## Quêtes
 - [[08 - Quêtes/Quêtes\|Quêtes]]
+- [[08 - Quêtes/Quêtes terminées\|Quêtes terminées]]
 
 ## Lore
 - Panthéon : voir dossier `04 - Lore/Panthéon/`
-- Peuples : voir dossier `04 - Lore/Peuples/`
 - Organisations : voir dossier `04 - Lore/Organisations/`
+- Familles : voir dossier `04 - Lore/Familles/`
+- Mythologie : voir dossier `04 - Lore/Mythologie/`
+- Créatures : voir dossier `04 - Lore/Créatures/`
 
 ## Lieux
-- [[05 - Lieux/Aria\|Aria]]
-- [[05 - Lieux/Altabianca\|Altabianca]]
-- [[05 - Lieux/Aqabah\|Aqabah]]
-- [[05 - Lieux/Wandermere\|Wandermere]]
-- [[05 - Lieux/Naporia\|Naporia]]
+Voir dossier `05 - Lieux/`.
 
 ## Objets
 - Armes : voir dossier `06 - Objets/Armes/`
-- [[01 - PJ/Possessions de Souen\|Possessions de Souen]]
+- Artefacts : voir dossier `06 - Objets/Artefacts/`
+- Atouts de la sagesse : voir dossier `06 - Objets/Atouts de la sagesse/`
+- Codex : voir [[06 - Objets/Codex/Codex\|Codex]] (index) + dossier `06 - Objets/Codex/`
+- Ingrédients / Potions : [[06 - Objets/Ingrédients\|Ingrédients]], [[06 - Objets/Potions\|Potions]]
 
 ## PNJ
-Voir dossier `02 - PNJ/`.
+Voir dossier `03 - PNJ/`.
 
 ## Séances
 Voir [[00 - Index Séances\|00 - Index Séances]] (ordre antichronologique).
+</content>
+</invoke>
